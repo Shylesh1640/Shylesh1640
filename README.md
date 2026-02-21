@@ -1,9 +1,9 @@
-<!-- Header Banner - Using reliable SVG-based banner -->
+<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shylesh%20S&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=60&descSize=20&descColor=ffffff" width="100%"/>
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%F0%9F%A7%A0;Turning+Raw+Data+into+Real+Insights+%E2%9C%A8;Always+Exploring+New+Algorithms+%F0%9F%94%AC" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- Visitor & Follower Badges -->
+<!-- Badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shylesh1640&label=Profile+Views&color=00D9FF&style=flat-square" alt="profile views" />
   &nbsp;
@@ -110,7 +110,6 @@ me.say_hi()
 
 <br/>
 
-<!-- Trophy - using vercel-hosted reliable endpoint -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shylesh1640&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
@@ -119,19 +118,16 @@ me.say_hi()
 
 ## 🔥 Featured Projects
 
-> ✏️ **Replace the repo names below with your actual GitHub repository names**
+> My most impactful data science & ML projects
 
 <div align="center">
-
-<!-- HOW TO USE: Replace YOUR_REPO_NAME with exact repo name from your GitHub -->
-<!-- Example: if your repo URL is github.com/Shylesh1640/iris-classifier → use iris-classifier -->
 
 <a href="https://github.com/Shylesh1640/FastAPI-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=FastAPI-app&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 &nbsp;
 <a href="https://github.com/Shylesh1640/Django-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=Django-Projec&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=Django-Project&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 
 <br/><br/>
@@ -205,6 +201,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%"/>
-  
+
   <i>⭐ From <a href="https://github.com/Shylesh1640">Shylesh1640</a> — Data is not just numbers, it's a story waiting to be told 📖</i>
 </div>
