@@ -1,24 +1,26 @@
+<!-- Header Banner - Using reliable SVG-based banner -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shylesh%20S&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=60&descSize=20&descColor=ffffff" width="100%"/>
+</div>
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%20There!%20I'm%20Shylesh%20S%20🤖&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20Data%20into%20Decisions%20|%20ML%20Engineer%20%26%20Data%20Scientist&descAlignY=58&descSize=17"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Turning+Raw+Data+into+Insights+%E2%9C%A8;Always+Exploring+New+Algorithms+%F0%9F%94%AC" alt="Typing SVG" />
-</a>
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%7C+NLP+%7C+Computer+Vision+%F0%9F%A7%A0;Turning+Raw+Data+into+Real+Insights+%E2%9C%A8;Always+Exploring+New+Algorithms+%F0%9F%94%AC" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=Shylesh1640&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Shylesh1640?label=Followers&style=flat-square&color=0e75b6" alt="followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen?style=flat-square" alt="focus"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Collaborations-orange?style=flat-square" alt="open to"/>
-
+<!-- Visitor & Follower Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shylesh1640&label=Profile+Views&color=00D9FF&style=flat-square" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Shylesh1640?label=Followers&style=flat-square&color=00D9FF&labelColor=0D1117" alt="followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-00D9FF?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Collaborations-FF6B6B?style=flat-square&labelColor=0D1117" />
 </div>
 
 ---
@@ -30,20 +32,19 @@ class Shylesh:
     name       = "Shylesh S"
     role       = "Data Scientist & ML Engineer"
     location   = "India 🇮🇳"
-    
+
     interests  = [
-        "Machine Learning",
-        "Deep Learning & Neural Networks",
-        "Natural Language Processing",
+        "Machine Learning & Deep Learning",
+        "Natural Language Processing (NLP)",
         "Computer Vision",
-        "Data Visualization",
+        "Data Visualization & Storytelling",
         "MLOps & Model Deployment"
     ]
-    
-    currently_learning = ["LLMs & GenAI", "Reinforcement Learning", "MLOps"]
+
+    currently_learning = ["LLMs & Generative AI", "Reinforcement Learning", "MLOps"]
     open_to            = ["Collaborations", "Research Projects", "Open Source"]
-    fun_fact           = "I speak Python fluently and data is my mother tongue 🐍📊"
-    
+    fun_fact           = "I speak Python fluently — data is my mother tongue 🐍📊"
+
     def say_hi(self):
         print("Thanks for visiting! Let's build something awesome with data! 🚀")
 
@@ -78,15 +79,16 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
 
 **☁️ Tools & Platforms**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -95,50 +97,51 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shylesh1640&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shylesh1640&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00D9FF"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shylesh1640&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shylesh1640&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shylesh1640&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="streak stats"/>
-
+  <img src="https://streak-stats.demolab.com?user=Shylesh1640&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+<!-- Trophy - using vercel-hosted reliable endpoint -->
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shylesh1640&theme=tokyonight&no-frame=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="trophies"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Shylesh1640&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 🔥 Featured Projects
 
-> My most impactful data science & ML projects
+> ✏️ **Replace the repo names below with your actual GitHub repository names**
 
 <div align="center">
 
-<!-- ✏️ Replace REPO_NAME_1, REPO_NAME_2, etc. with your actual GitHub repository names -->
-<a href="https://github.com/Shylesh1640/REPO_NAME_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&title_color=00D9FF" />
+<!-- HOW TO USE: Replace YOUR_REPO_NAME with exact repo name from your GitHub -->
+<!-- Example: if your repo URL is github.com/Shylesh1640/iris-classifier → use iris-classifier -->
+
+<a href="https://github.com/Shylesh1640/YOUR_REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 &nbsp;
-<a href="https://github.com/Shylesh1640/REPO_NAME_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&title_color=00D9FF" />
+<a href="https://github.com/Shylesh1640/YOUR_REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Shylesh1640/REPO_NAME_3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&title_color=00D9FF" />
+<a href="https://github.com/Shylesh1640/YOUR_REPO_NAME_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_3&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 &nbsp;
-<a href="https://github.com/Shylesh1640/REPO_NAME_4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&title_color=00D9FF" />
+<a href="https://github.com/Shylesh1640/YOUR_REPO_NAME_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_4&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 
 </div>
@@ -147,43 +150,39 @@ me.say_hi()
 
 ## 🤝 Collaboration & Open Source Highlights
 
-> Places where I've made a meaningful impact alongside others
+> Projects I've contributed to alongside the community
 
 | 🗂️ Repository | 💡 My Contribution | ⭐ Stars |
 |---|---|---|
-| [Add Collab Repo 1](https://github.com/org/repo) | e.g., Built the NLP preprocessing pipeline from scratch | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF) |
-| [Add Collab Repo 2](https://github.com/org/repo) | e.g., Improved model accuracy by 18% using ensemble methods | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF) |
-| [Add Collab Repo 3](https://github.com/org/repo) | e.g., Deployed Streamlit dashboard for real-time predictions | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF) |
+| [Add Repo Name](https://github.com/org/repo) | e.g., Built NLP preprocessing pipeline from scratch | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF&labelColor=0D1117) |
+| [Add Repo Name](https://github.com/org/repo) | e.g., Improved model accuracy by 18% using ensemble methods | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF&labelColor=0D1117) |
+| [Add Repo Name](https://github.com/org/repo) | e.g., Deployed real-time prediction dashboard using Streamlit | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF&labelColor=0D1117) |
 
 ---
 
-## 🏆 Achievements & Good Stuff I've Done
+## 🏆 Achievements & Things I'm Proud Of
 
-- 🤖 Built **end-to-end ML pipelines** — from raw data ingestion to model deployment
-- 🧠 Worked with **NLP, Computer Vision, and Tabular ML** across diverse domains
-- 📊 Created insightful dashboards and visualizations that drove real decisions
-- 🔬 Explored and implemented research papers into working prototypes
-- 🌍 Contributed to open-source DS/ML tools and shared reproducible notebooks
-- 🚀 Comfortable with the **full ML lifecycle**: EDA → Modelling → Evaluation → Deployment
+- 🤖 Built **end-to-end ML pipelines** — from raw messy data to deployed predictions
+- 🧠 Applied **NLP, Computer Vision, and Tabular ML** across real-world domains
+- 📊 Created insightful dashboards & visualizations that turned data into decisions
+- 🔬 Converted cutting-edge **research papers into working prototypes**
+- 🌍 Shared clean, reproducible **Jupyter notebooks** with the open-source community
+- 🚀 Experienced in the **full ML lifecycle**: EDA → Modelling → Evaluation → Deployment
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shylesh1640&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FF6B6B" alt="contribution graph"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shylesh1640&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
 </div>
 
 ---
 
-## 💬 Dev Quote of the Day
+## 💬 Dev Quote
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 ---
@@ -194,7 +193,7 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shylesh%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shylesh-s)
 &nbsp;
-[![Twitter / X](https://img.shields.io/badge/X-%40shylesh0440-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shylesh0440)
+[![X / Twitter](https://img.shields.io/badge/X-%40shylesh0440-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shylesh0440)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon%20🔨-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 &nbsp;
@@ -205,10 +204,7 @@ me.say_hi()
 ---
 
 <div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer"/>
-
-*⭐️ From [Shylesh1640](https://github.com/Shylesh1640) with ❤️ — Data is not just numbers, it's a story waiting to be told 📖*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%"/>
+  
+  <i>⭐ From <a href="https://github.com/Shylesh1640">Shylesh1640</a> — Data is not just numbers, it's a story waiting to be told 📖</i>
 </div>
