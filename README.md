@@ -127,21 +127,21 @@ me.say_hi()
 <!-- Example: if your repo URL is github.com/Shylesh1640/iris-classifier → use iris-classifier -->
 
 <a href="https://github.com/Shylesh1640/FastAPI-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=FastAPI-app&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 &nbsp;
 <a href="https://github.com/Shylesh1640/Django-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=Django-Projec&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Shylesh1640/Phrama-Ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_3&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=Phrama-Ai&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 &nbsp;
 <a href="https://github.com/Shylesh1640/Study_tracker_using_react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_4&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=Study_tracker_using_react&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 
 </div>
