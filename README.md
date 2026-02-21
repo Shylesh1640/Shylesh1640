@@ -3,6 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shylesh%20S&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=60&descSize=20&descColor=ffffff" width="100%"/>
 </div>
 
+<!-- Profile Picture + Name Side by Side -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/178035503?v=4" width="120" height="120" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Shylesh S"/>
+  <br/>
+  <h2>👋 Hey, I'm Shylesh S!</h2>
+  <p><b>Data Scientist & ML Engineer from India 🇮🇳</b></p>
+</div>
+
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
