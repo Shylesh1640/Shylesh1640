@@ -3,6 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shylesh%20S&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=60&descSize=20&descColor=ffffff" width="100%"/>
 </div>
 
+<!-- Profile Picture + Name Side by Side -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/178035503?v=4" width="120" height="120" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Shylesh S"/>
+  <br/>
+  <h2>👋 Hey, I'm Shylesh S!</h2>
+  <p><b>Data Scientist & ML Engineer from India 🇮🇳</b></p>
+</div>
+
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -111,7 +119,28 @@ me.say_hi()
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shylesh1640&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+
+**🏅 GitHub Achievements**
+
+<a href="https://github.com/Shylesh1640?achievement=pair-extraordinaire&tab=achievements">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Shylesh1640?achievement=pull-shark&tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" title="Pull Shark"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Shylesh1640?achievement=quickdraw&tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw" title="Quickdraw"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Shylesh1640?achievement=yolo&tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" title="YOLO"/>
+</a>
+
+<br/>
+<sub>🦅 Pair Extraordinaire &nbsp;·&nbsp; 🦈 Pull Shark &nbsp;·&nbsp; ⚡ Quickdraw &nbsp;·&nbsp; 🎯 YOLO</sub>
+
 </div>
 
 ---
