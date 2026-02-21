@@ -5,8 +5,7 @@
 
 <!-- Profile Picture + Name Side by Side -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/178035503?v=4" width="120" height="120" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Shylesh S"/>
-  <br/>
+  
   <h2>👋 Hey, I'm Shylesh S!</h2>
   <p><b>Data Scientist & ML Engineer from India 🇮🇳</b></p>
 </div>
