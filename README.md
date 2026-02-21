@@ -126,21 +126,21 @@ me.say_hi()
 <!-- HOW TO USE: Replace YOUR_REPO_NAME with exact repo name from your GitHub -->
 <!-- Example: if your repo URL is github.com/Shylesh1640/iris-classifier → use iris-classifier -->
 
-<a href="https://github.com/Shylesh1640/YOUR_REPO_NAME_1">
+<a href="https://github.com/Shylesh1640/FastAPI-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 &nbsp;
-<a href="https://github.com/Shylesh1640/YOUR_REPO_NAME_2">
+<a href="https://github.com/Shylesh1640/Django-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Shylesh1640/YOUR_REPO_NAME_3">
+<a href="https://github.com/Shylesh1640/Phrama-Ai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_3&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 &nbsp;
-<a href="https://github.com/Shylesh1640/YOUR_REPO_NAME_4">
+<a href="https://github.com/Shylesh1640/Study_tracker_using_react">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=YOUR_REPO_NAME_4&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 
