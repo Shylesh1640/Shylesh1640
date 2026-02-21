@@ -136,8 +136,24 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=Phrama-Ai&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 &nbsp;
-<a href="https://github.com/Shylesh1640/Study_tracker_using_react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=Study_tracker_using_react&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+<a href="https://github.com/Shylesh1640/Aquascan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=Aquascan&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+</a>
+
+</div>
+
+---
+
+## 🌟 More Great Repos Worth Exploring
+
+<div align="center">
+
+<a href="https://github.com/Shylesh1640/netflix-movie-pandas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=netflix-movie-pandas&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
+</a>
+&nbsp;
+<a href="https://github.com/Shylesh1640/House-Prices---Advanced-Regression-Techniques">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shylesh1640&repo=House-Prices---Advanced-Regression-Techniques&theme=tokyonight&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=ffffff" />
 </a>
 
 </div>
@@ -150,20 +166,21 @@ me.say_hi()
 
 | 🗂️ Repository | 💡 My Contribution | ⭐ Stars |
 |---|---|---|
-| [Add Repo Name](https://github.com/org/repo) | e.g., Built NLP preprocessing pipeline from scratch | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF&labelColor=0D1117) |
-| [Add Repo Name](https://github.com/org/repo) | e.g., Improved model accuracy by 18% using ensemble methods | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF&labelColor=0D1117) |
-| [Add Repo Name](https://github.com/org/repo) | e.g., Deployed real-time prediction dashboard using Streamlit | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF&labelColor=0D1117) |
+| [Kosaksi-Pasapugazh-and-experiments](https://github.com/Shylesh1640/Kosaksi-Pasapugazh-and-experiments) | Forked & contributed experiments in Jupyter Notebook | ![stars](https://img.shields.io/github/stars/Shylesh1640/Kosaksi-Pasapugazh-and-experiments?style=flat-square&color=00D9FF&labelColor=0D1117) |
+| [Add Collab Repo](https://github.com/org/repo) | e.g., Improved model accuracy by 18% using ensemble methods | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF&labelColor=0D1117) |
+| [Add Collab Repo](https://github.com/org/repo) | e.g., Deployed real-time prediction dashboard using Streamlit | ![stars](https://img.shields.io/github/stars/org/repo?style=flat-square&color=00D9FF&labelColor=0D1117) |
 
 ---
 
 ## 🏆 Achievements & Things I'm Proud Of
 
 - 🤖 Built **end-to-end ML pipelines** — from raw messy data to deployed predictions
-- 🧠 Applied **NLP, Computer Vision, and Tabular ML** across real-world domains
-- 📊 Created insightful dashboards & visualizations that turned data into decisions
-- 🔬 Converted cutting-edge **research papers into working prototypes**
-- 🌍 Shared clean, reproducible **Jupyter notebooks** with the open-source community
+- 🌐 Developed **Phrama-Ai** — an AI-powered healthcare assistant project
+- 🐋 Built a production-ready **FastAPI app** with 8 ⭐ stars on GitHub
+- 📊 Performed EDA on Netflix & Google Play Store datasets with real insights
+- 🏠 Applied **Advanced Regression Techniques** on the classic Kaggle House Prices dataset
 - 🚀 Experienced in the **full ML lifecycle**: EDA → Modelling → Evaluation → Deployment
+- 🏅 Earned GitHub achievements: **Pair Extraordinaire**, **Pull Shark**, **Quickdraw**, **YOLO**
 
 ---
 
@@ -187,7 +204,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shylesh%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shylesh-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shylesh1640-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shylesh1640)
 &nbsp;
 [![X / Twitter](https://img.shields.io/badge/X-%40shylesh0440-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shylesh0440)
 &nbsp;
