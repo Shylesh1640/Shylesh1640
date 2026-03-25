@@ -150,7 +150,7 @@ me.say_hi()
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |---|---|---|
-| [⚡ FastAPI-app](https://github.com/Shylesh1640/FastAPI-app) | Production-ready REST API backend — ⭐ 14 stars | `Python` `FastAPI` |
+| [⚡ FastAPI-app](https://github.com/Shylesh1640/FastAPI-app) | Production-ready REST API backend — ⭐ 21 stars | `Python` `FastAPI` |
 | [🌐 Django-Project](https://github.com/Shylesh1640/Django-Project) | Full-stack web application built with Django | `Python` `Django` |
 | [💊 Phrama-Ai](https://github.com/Shylesh1640/Phrama-Ai) | AI-powered pharmaceutical assistant | `Python` `AI/ML` |
 | [🌊 Aquascan](https://github.com/Shylesh1640/Aquascan) | Water quality analysis & scanning system | `Python` `CV` |
