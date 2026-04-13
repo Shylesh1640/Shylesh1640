@@ -6,7 +6,7 @@
 <!-- Profile Picture + Name Side by Side -->
 <div align="center">
   
-  <h2>👋 Hey, I'm Shylesh S!</h2>
+  <h2>👋 Hey, I'm SHYLESH S!</h2>
   <p><b>Data Scientist & ML Engineer from India 🇮🇳</b></p>
 </div>
 
